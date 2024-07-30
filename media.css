@@ -1,0 +1,306 @@
+@media only screen and (max-width:1290px){
+    .header-link>li>a{
+        font-size:13px;
+    }
+    .section-header{
+        background-size:initial;
+        height:100vh;
+    }
+    .conteiner-choosing{
+        flex-wrap:wrap;
+    }
+    .products-img{
+        width:180px;
+    }
+    .products-img-chair{
+        width:180px;
+    }
+    .chair-products{
+        width:180px;
+    }
+    .products-img-text-div{
+        width:240px;
+    }
+    .products-img-div{
+        width:90%;
+    }
+    .pay-div{
+        width:180px;
+    }
+    .experiences-img-text-div{
+        flex-direction:row-reverse;
+    }
+    .experiences-img-text{
+        flex-direction:row-reverse;
+    }
+    .experiences-h2{
+        font-size:28px;
+    }
+    .experiences-h5-text{
+        width:270px;
+        font-size:10px;
+    }
+    .table-chair{
+        width:650px;
+    }
+    .client-img{
+        width:280px;
+    }
+    .footer-h6-text{
+        width:160px;
+        font-size:12px;
+    }
+}
+
+@media only screen and (max-width:1238px){
+    .header-link>li>a{
+        font-size:10px;
+    }
+}
+
+@media only screen and (max-width:1160px){
+    .products-img{
+        width:150px;
+    }
+    .products-img-chair{
+        width:150px;
+    }
+    .chair-products{
+        width:150px;
+    }
+    .products-img-text-div{
+        width:220px;
+    }
+    .products-img-div{
+        width:89%;
+    }
+    .pay-div{
+        width:160px;
+    }
+    .sofa-img{
+        width:529px;
+    }
+}
+
+@media only screen and (max-width:1115px){
+    .header-link{
+        width:50%;
+    }
+    .header-link>li>a{
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:1071px){
+    .header-link>li>a{
+        font-size:10px;
+    }
+    .header-h1-text{
+        font-size:60px;
+    }
+    .header-h3-text{
+        font-size:20px;
+    }
+    .products-how-money-pay-div{
+        width:700px;
+        flex-wrap:wrap !important;
+        gap:30px;
+    }
+    .experiences-img-text{
+        margin:0 auto;
+    }
+    .experiences-img-text-div{
+        margin:0 auto;
+    }
+    .sofa-img{
+        width:429px;
+    }
+    .table-chair{
+        width:429px;
+    }
+    .client-img{
+        width:250px !important;
+    }
+    .footer{
+        overflow:hidden;
+    }
+    .footer-conteiner{
+        flex-direction:column;
+        gap:50px;
+    }
+    .h4-footer-logo{
+        text-align:center;
+    }
+    .footer-h6-text{
+        width:500px;
+        font-size:15px;
+        text-align:center;
+        margin-top:30px;
+        padding-right:80px !important;
+    }
+}
+
+@media only screen and (max-width:945px){
+    .sofa-img{
+        width:400px;
+    }
+    .table-chair{
+        width:400px;
+    }
+}
+
+@media only screen and (max-width:910px){
+    .header-link{
+        width:60%;
+    }
+    .products-img-div{
+        flex-wrap:wrap;
+    }
+    .sofa-img{
+        width:730px;
+    }
+    .table-chair{
+        width:730px;
+    }
+    .experiences-img-text-div{
+        flex-direction:column;
+        gap:40px;
+    }
+    .experiences-img-text{
+        flex-direction:column;
+        gap:40px;
+    }
+    .experiences-h5{
+        text-align:center;
+    }
+    .experiences-h2{
+        text-align:center;
+    }
+    .experiences-h5-text{
+        margin-left:100px;
+        text-align:center;
+    }
+    .our-client-img-div{
+        flex-wrap:wrap;
+        gap:30px;
+    }
+}
+
+@media only screen and (max-width:769px){
+    .header-link>li>a{
+        display:none;
+    }
+    .header-h1-text{
+        font-size:40px;
+    }
+    .header-h3-text{
+        font-size:14px;
+    }
+    .products-how-money-pay-div{
+        width:500px;
+    }
+    .sofa-img{
+        width:630px;
+    }
+    .table-chair{
+        width:630px;
+    }
+    .footer-contact-div{
+        flex-direction:column;
+        align-items:center;
+        align-items:left;
+        margin-left:60px;
+        gap:40px;
+    }
+}
+
+@media only screen and (max-width:675px){
+    .sofa-img{
+        width:500px;
+    }
+    .table-chair{
+        width:500px;
+    }
+}
+
+@media only screen and (max-width:654px){
+    .client-img{
+        width:470px !important;
+        margin:0 auto;
+    }
+}
+
+@media only screen and (max-width:620px){
+    .section-our-client{
+        overflow:hidden !important;
+    }
+}
+
+@media only screen and (max-width:535px){
+    .header-h1-text{
+        font-size:30px;
+    }
+    .header-h3-text{
+        font-size:12px;
+    }
+    .paragraf-selling-products{
+        font-size:30px;
+    }
+    .products-how-money-pay-div{
+        width:450px;
+    }
+    .products-img-text-div{
+        margin:0 auto;
+    }
+    .products-img-text-div{
+        width:380px;
+    }
+    .sofa-img{
+        width:430px;
+    }
+    .table-chair{
+        width:430px;
+    }
+}
+
+@media only screen and (max-width:516px){
+    .section-products{
+        overflow:hidden !important;
+    }
+}
+
+@media only screen and (max-width:465px){
+    .sofa-img{
+        width:400px;
+    }
+    .table-chair{
+        width:400px;
+    }
+    .section-experiences{
+        overflow:hidden;
+    }
+    .footer-h6-text{
+        font-size:12px;
+    }
+}
+
+@media only screen and (max-width:415px){
+    .products-img-div{
+        margin-left:120px;
+    }
+    .products-img-text-div{
+        width:350px;
+    }
+    .sofa-img{
+        width:370px;
+    }
+    .table-chair{
+        width:370px;
+    }
+    .h3-our-client-text{
+        font-size:38px;
+    }
+    .client-img{
+        width:300px !important;
+    }
+}
